@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="021d9016-92bc-49b0-ba0d-d9852e43b151" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DataStructure-Algorithm-TS" />
+  </component>
+  <component name="ProjectId" id="1hPTopArisjDOfVCVn3mN72Datj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TypeScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.TypeScript" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.001_two_sum.ts">
+    <configuration name="001_two_sum.ts" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/001_two_sum.ts" />
+      <method v="2" />
+    </configuration>
+    <configuration name="deep (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/0551_two_sum.ts" />
+      <test-names>
+        <test-name value="deep" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="deep" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <jest-options value="--watch" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/001_two_sum.ts" />
+      <test-names>
+        <test-name value="deep" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Jest.ts" />
+      <item itemvalue="Jest.deep" />
+      <item itemvalue="Jest.deep (1)" />
+      <item itemvalue="Jest.001_two_sum.ts" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.001_two_sum.ts" />
+        <item itemvalue="Jest.deep (1)" />
+        <item itemvalue="Jest.deep" />
+        <item itemvalue="Jest.deep" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="021d9016-92bc-49b0-ba0d-d9852e43b151" name="Default Changelist" comment="" />
+      <created>1599911906489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599911906489</updated>
+      <workItem from="1599911909061" duration="6289000" />
+      <workItem from="1600586299620" duration="947000" />
+      <workItem from="1600673268440" duration="1007000" />
+      <workItem from="1600731819889" duration="507000" />
+      <workItem from="1601135478948" duration="2145000" />
+      <workItem from="1601200031821" duration="745000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/BinaryTree/RouteSum.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/BinaryTree/BuildTree.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/BinaryTree/Symmetry.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/BinaryTree/TreeToList.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/BinaryTree/Mirror.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/BinaryTree/VerifySquenceOfBST.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/BinaryTree/HasSubTree.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/BinaryTree/BinaryTree.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/BinaryTree/ZigzagLevelOrder.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/BinaryTree/SearchTree.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/LRUCache/LRUCache.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/LinkList/RotateRight.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/LinkList/ReorderList.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/LinkList/Exchange.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/LinkList/LinkList.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/LinkList/ListSum.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/LinkList/SeparateList.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/LinkList/ReverseList.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/LinkList/MergeKList.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/LinkList/DeleteN.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/LinkList/FirstSameNode.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/LinkList/MergeList.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/LinkList/LinkListMiddle.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/LinkList/SortList.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/String/CheckInclusion.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/String/LongestCommonPerfix.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/String/LengthOfLongestSubstring.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/String/MultiplyString.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/String/StringAdd.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/String/CountBinarySubstrings.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/String/RestoreIpAddress.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/String/SumBinary.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/String/LongestPalindrome.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Stack/Stack.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Stack/StackCheck.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Stack/isValidParentheses.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Stack/MinStack.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Queue/CircleQueue.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Queue/CircularDeque.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Queue/Queue.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/PrintMatrix.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/ThreeSumCloest.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/FindNumWithSum.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/Merge.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/Reverse.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/RemoveDuplicates.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/PrintDiagonal.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/ReorderOddEven.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/SumTwoNumbers.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/Trap.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/IsContinous.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/SumThreeNumbers.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/FindMedianSortedArrays.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/MaxAreaOfIsland.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/SumFourNumbers.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/MoreThanHalf.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/MoveZero.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/FindGreatestSum.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/FindContinousSequence.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/MaxArea.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Array/FindCircleNum.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/DataStructure/Heap/Heap.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/DynamicProgramming/YanghuiTriangle.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/DynamicProgramming/TheNOfTheUglyNumber.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/DynamicProgramming/MaxEnvelopes.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/DynamicProgramming/MaximalSquare.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/DynamicProgramming/Tribonacci.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/DynamicProgramming/ProductExpectSelf.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/DynamicProgramming/Theif.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/DynamicProgramming/MinimumTotal.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/GreedyAlgorithm/Stock.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/GreedyAlgorithm/Biscuits.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/GreedyAlgorithm/MaxSquare.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Backtracking/GenerateParenthesis.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Recursion/Pow.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Recursion/Fibonacci.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Recursion/ReverseInt.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Recursion/ClimbStairs.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Search/FindPeakElement.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Search/Sqrt.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Search/GetIndexFromRotateArray.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Search/GetNumberOfK.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Search/FindMinInRotateArray.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Search/BinarySearch.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Search/SearchRange.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Search/FindClosestElements.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Search/NextGreatestLetter.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Binary/StrictAdd.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Binary/PlusMinusMultiplyDivide.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Binary/NumberOfOne.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Binary/FindNumberAppearOnce.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Sort/MergeSort.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Sort/BubbleSort.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Sort/InsertSort.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Sort/QuickSort.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Sort/SelectSort.js" />
+        <option value="$PROJECT_DIR$/DataStructure-Algorithm-TS/Algorithm/Sort/HeapSort.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1523" y="935" width="1071" height="892" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599914205563">
+      <screen x="52" y="23" width="3788" height="2137" />
+    </state>
+    <state x="1523" y="935" width="1071" height="892" key="#com.intellij.execution.impl.EditConfigurationsDialog/52.23.3788.2137@52.23.3788.2137" timestamp="1599914205563" />
+    <state x="1524" y="935" key="#com.intellij.execution.impl.EditConfigurationsDialog/53.23.3787.2137@53.23.3787.2137" timestamp="1599912279100" />
+    <state x="1199" y="633" width="1035" height="1167" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601136723364">
+      <screen x="65" y="23" width="3775" height="2137" />
+    </state>
+    <state x="1199" y="633" width="1035" height="1167" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/65.23.3775.2137@65.23.3775.2137" timestamp="1601136723364" />
+    <state x="1000" y="1188" key="#com.intellij.ide.util.MemberChooser" timestamp="1599919205650">
+      <screen x="52" y="23" width="3788" height="2137" />
+    </state>
+    <state x="1000" y="1188" key="#com.intellij.ide.util.MemberChooser/52.23.3788.2137@52.23.3788.2137" timestamp="1599919205650" />
+    <state width="1214" height="482" key="GridCell.Tab.0.bottom" timestamp="1601136719076">
+      <screen x="65" y="23" width="3775" height="2137" />
+    </state>
+    <state width="1214" height="482" key="GridCell.Tab.0.bottom/52.23.3788.2137@52.23.3788.2137" timestamp="1599914208048" />
+    <state width="1214" height="482" key="GridCell.Tab.0.bottom/55.23.3785.2137@55.23.3785.2137" timestamp="1599920558623" />
+    <state width="1214" height="482" key="GridCell.Tab.0.bottom/65.23.3775.2137@65.23.3775.2137" timestamp="1601136719076" />
+    <state width="1214" height="392" key="GridCell.Tab.0.bottom/68.23.3772.2137@68.23.3772.2137" timestamp="1600586693440" />
+    <state width="1214" height="482" key="GridCell.Tab.0.center" timestamp="1601136719075">
+      <screen x="65" y="23" width="3775" height="2137" />
+    </state>
+    <state width="1214" height="482" key="GridCell.Tab.0.center/52.23.3788.2137@52.23.3788.2137" timestamp="1599914208047" />
+    <state width="1214" height="482" key="GridCell.Tab.0.center/55.23.3785.2137@55.23.3785.2137" timestamp="1599920558622" />
+    <state width="1214" height="482" key="GridCell.Tab.0.center/65.23.3775.2137@65.23.3775.2137" timestamp="1601136719075" />
+    <state width="1214" height="392" key="GridCell.Tab.0.center/68.23.3772.2137@68.23.3772.2137" timestamp="1600586693439" />
+    <state width="1214" height="482" key="GridCell.Tab.0.left" timestamp="1601136719075">
+      <screen x="65" y="23" width="3775" height="2137" />
+    </state>
+    <state width="1214" height="482" key="GridCell.Tab.0.left/52.23.3788.2137@52.23.3788.2137" timestamp="1599914208046" />
+    <state width="1214" height="482" key="GridCell.Tab.0.left/55.23.3785.2137@55.23.3785.2137" timestamp="1599920558621" />
+    <state width="1214" height="482" key="GridCell.Tab.0.left/65.23.3775.2137@65.23.3775.2137" timestamp="1601136719075" />
+    <state width="1214" height="392" key="GridCell.Tab.0.left/68.23.3772.2137@68.23.3772.2137" timestamp="1600586693439" />
+    <state width="1214" height="482" key="GridCell.Tab.0.right" timestamp="1601136719075">
+      <screen x="65" y="23" width="3775" height="2137" />
+    </state>
+    <state width="1214" height="482" key="GridCell.Tab.0.right/52.23.3788.2137@52.23.3788.2137" timestamp="1599914208047" />
+    <state width="1214" height="482" key="GridCell.Tab.0.right/55.23.3785.2137@55.23.3785.2137" timestamp="1599920558623" />
+    <state width="1214" height="482" key="GridCell.Tab.0.right/65.23.3775.2137@65.23.3775.2137" timestamp="1601136719075" />
+    <state width="1214" height="392" key="GridCell.Tab.0.right/68.23.3772.2137@68.23.3772.2137" timestamp="1600586693440" />
+    <state width="1214" height="482" key="GridCell.Tab.1.bottom" timestamp="1601136719077">
+      <screen x="65" y="23" width="3775" height="2137" />
+    </state>
+    <state width="1214" height="482" key="GridCell.Tab.1.bottom/52.23.3788.2137@52.23.3788.2137" timestamp="1599914210933" />
+    <state width="1214" height="482" key="GridCell.Tab.1.bottom/55.23.3785.2137@55.23.3785.2137" timestamp="1599920558626" />
+    <state width="1214" height="482" key="GridCell.Tab.1.bottom/65.23.3775.2137@65.23.3775.2137" timestamp="1601136719077" />
+    <state width="1214" height="482" key="GridCell.Tab.1.center" timestamp="1601136719077">
+      <screen x="65" y="23" width="3775" height="2137" />
+    </state>
+    <state width="1214" height="482" key="GridCell.Tab.1.center/52.23.3788.2137@52.23.3788.2137" timestamp="1599914210932" />
+    <state width="1214" height="482" key="GridCell.Tab.1.center/55.23.3785.2137@55.23.3785.2137" timestamp="1599920558624" />
+    <state width="1214" height="482" key="GridCell.Tab.1.center/65.23.3775.2137@65.23.3775.2137" timestamp="1601136719077" />
+    <state width="1214" height="482" key="GridCell.Tab.1.left" timestamp="1601136719076">
+      <screen x="65" y="23" width="3775" height="2137" />
+    </state>
+    <state width="1214" height="482" key="GridCell.Tab.1.left/52.23.3788.2137@52.23.3788.2137" timestamp="1599914210931" />
+    <state width="1214" height="482" key="GridCell.Tab.1.left/55.23.3785.2137@55.23.3785.2137" timestamp="1599920558624" />
+    <state width="1214" height="482" key="GridCell.Tab.1.left/65.23.3775.2137@65.23.3775.2137" timestamp="1601136719076" />
+    <state width="1214" height="482" key="GridCell.Tab.1.right" timestamp="1601136719077">
+      <screen x="65" y="23" width="3775" height="2137" />
+    </state>
+    <state width="1214" height="482" key="GridCell.Tab.1.right/52.23.3788.2137@52.23.3788.2137" timestamp="1599914210932" />
+    <state width="1214" height="482" key="GridCell.Tab.1.right/55.23.3785.2137@55.23.3785.2137" timestamp="1599920558625" />
+    <state width="1214" height="482" key="GridCell.Tab.1.right/65.23.3775.2137@65.23.3775.2137" timestamp="1601136719077" />
+    <state width="1214" height="482" key="GridCell.Tab.2.bottom" timestamp="1601136719079">
+      <screen x="65" y="23" width="3775" height="2137" />
+    </state>
+    <state width="1214" height="482" key="GridCell.Tab.2.bottom/52.23.3788.2137@52.23.3788.2137" timestamp="1599914207963" />
+    <state width="1214" height="482" key="GridCell.Tab.2.bottom/55.23.3785.2137@55.23.3785.2137" timestamp="1599920558628" />
+    <state width="1214" height="482" key="GridCell.Tab.2.bottom/65.23.3775.2137@65.23.3775.2137" timestamp="1601136719079" />
+    <state width="1214" height="482" key="GridCell.Tab.2.center" timestamp="1601136719078">
+      <screen x="65" y="23" width="3775" height="2137" />
+    </state>
+    <state width="1214" height="482" key="GridCell.Tab.2.center/52.23.3788.2137@52.23.3788.2137" timestamp="1599914207962" />
+    <state width="1214" height="482" key="GridCell.Tab.2.center/55.23.3785.2137@55.23.3785.2137" timestamp="1599920558627" />
+    <state width="1214" height="482" key="GridCell.Tab.2.center/65.23.3775.2137@65.23.3775.2137" timestamp="1601136719078" />
+    <state width="1214" height="482" key="GridCell.Tab.2.left" timestamp="1601136719078">
+      <screen x="65" y="23" width="3775" height="2137" />
+    </state>
+    <state width="1214" height="482" key="GridCell.Tab.2.left/52.23.3788.2137@52.23.3788.2137" timestamp="1599914207962" />
+    <state width="1214" height="482" key="GridCell.Tab.2.left/55.23.3785.2137@55.23.3785.2137" timestamp="1599920558626" />
+    <state width="1214" height="482" key="GridCell.Tab.2.left/65.23.3775.2137@65.23.3775.2137" timestamp="1601136719078" />
+    <state width="1214" height="482" key="GridCell.Tab.2.right" timestamp="1601136719079">
+      <screen x="65" y="23" width="3775" height="2137" />
+    </state>
+    <state width="1214" height="482" key="GridCell.Tab.2.right/52.23.3788.2137@52.23.3788.2137" timestamp="1599914207963" />
+    <state width="1214" height="482" key="GridCell.Tab.2.right/55.23.3785.2137@55.23.3785.2137" timestamp="1599920558628" />
+    <state width="1214" height="482" key="GridCell.Tab.2.right/65.23.3775.2137@65.23.3775.2137" timestamp="1601136719079" />
+    <state width="1214" height="482" key="GridCell.Tab.3.bottom" timestamp="1601136719081">
+      <screen x="65" y="23" width="3775" height="2137" />
+    </state>
+    <state width="1214" height="482" key="GridCell.Tab.3.bottom/52.23.3788.2137@52.23.3788.2137" timestamp="1599914207965" />
+    <state width="1214" height="482" key="GridCell.Tab.3.bottom/55.23.3785.2137@55.23.3785.2137" timestamp="1599920558631" />
+    <state width="1214" height="482" key="GridCell.Tab.3.bottom/65.23.3775.2137@65.23.3775.2137" timestamp="1601136719081" />
+    <state width="1214" height="482" key="GridCell.Tab.3.center" timestamp="1601136719080">
+      <screen x="65" y="23" width="3775" height="2137" />
+    </state>
+    <state width="1214" height="482" key="GridCell.Tab.3.center/52.23.3788.2137@52.23.3788.2137" timestamp="1599914207964" />
+    <state width="1214" height="482" key="GridCell.Tab.3.center/55.23.3785.2137@55.23.3785.2137" timestamp="1599920558630" />
+    <state width="1214" height="482" key="GridCell.Tab.3.center/65.23.3775.2137@65.23.3775.2137" timestamp="1601136719080" />
+    <state width="1214" height="482" key="GridCell.Tab.3.left" timestamp="1601136719079">
+      <screen x="65" y="23" width="3775" height="2137" />
+    </state>
+    <state width="1214" height="482" key="GridCell.Tab.3.left/52.23.3788.2137@52.23.3788.2137" timestamp="1599914207964" />
+    <state width="1214" height="482" key="GridCell.Tab.3.left/55.23.3785.2137@55.23.3785.2137" timestamp="1599920558629" />
+    <state width="1214" height="482" key="GridCell.Tab.3.left/65.23.3775.2137@65.23.3775.2137" timestamp="1601136719079" />
+    <state width="1214" height="482" key="GridCell.Tab.3.right" timestamp="1601136719080">
+      <screen x="65" y="23" width="3775" height="2137" />
+    </state>
+    <state width="1214" height="482" key="GridCell.Tab.3.right/52.23.3788.2137@52.23.3788.2137" timestamp="1599914207965" />
+    <state width="1214" height="482" key="GridCell.Tab.3.right/55.23.3785.2137@55.23.3785.2137" timestamp="1599920558630" />
+    <state width="1214" height="482" key="GridCell.Tab.3.right/65.23.3775.2137@65.23.3775.2137" timestamp="1601136719080" />
+    <state x="1567" y="910" key="SettingsEditor" timestamp="1599914046536">
+      <screen x="52" y="23" width="3788" height="2137" />
+    </state>
+    <state x="1567" y="910" key="SettingsEditor/52.23.3788.2137@52.23.3788.2137" timestamp="1599914046536" />
+    <state x="1568" y="910" key="SettingsEditor/53.23.3787.2137@53.23.3787.2137" timestamp="1599912295289" />
+  </component>
+</project>

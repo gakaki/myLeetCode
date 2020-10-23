@@ -1,0 +1,83 @@
+type Lesson {
+    type:video
+    links:[
+
+    ],
+    detail: string
+    star: Int
+    name:
+    language:
+    tag:
+    from:
+    site:
+    finished:
+    size:
+    description
+}
+
+1 过于初级，感觉是给连c语言都没学过的0编程视频
+
+手机里村上leetcode 和 花花酱的 系列视频按照分类
+
+
+type Tag {
+    id: ID!
+    name_en: String!
+    name_ch: String!
+}
+
+type Problem {
+    id: ID!
+    no: String!
+    name_en: String!
+    name_ch: String!
+    favorite_count: number
+    title: String!
+    hint: String!
+    count_succ: number
+    count_commit: number
+
+    similar_problems: [Problem]
+    companys: [Company]
+    tags: [Tag]
+    success_rate: number
+    difficulity:
+    frequency: number
+    star: 
+}
+
+
+
+
+
+type Lesson {
+    type:video
+    links:[
+
+    ],
+    detail: string
+    star: Int
+    name:
+    language:
+    tag:
+    from:
+    site:
+    finished:
+    size:
+    description
+}
+
+1 过于初级，感觉是给连c语言都没学过的0编程视频
+
+
+sentry.js源码
+错误监控
+性能监控
+clickhouse
+rrweb录屏完成
+
+showmethebug ot。js
+
+rxjs react交互
+flexbox
+dayjs源码分析

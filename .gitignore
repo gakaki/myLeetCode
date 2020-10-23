@@ -1,0 +1,14 @@
+.DS_Store
+*.tgz
+node_modules
+node_modules
+**/node_modules
+DataStructure-Algorithm-TS
+cpp/cmake-build-debug
+java/build
+java/out
+javascript/node_modules
+typescript/node_modules
+/java/.gradle/checksums
+/java/.gradle/buildOutputCleanup
+/java/.gradle/6.5
